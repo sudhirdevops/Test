@@ -1,1 +1,6 @@
-the very first text file master modified
+<<<<<<< HEAD
+the very first text file 
+master modified
+=======
+the very first text file created by branch child
+>>>>>>> child
